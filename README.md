@@ -1,4 +1,7 @@
-### Hi there 👋
+### What's up! 👋 
+  * My name's JJ.
+  * I'm a CS student interested in Software Engineering, Machine Learning, and Cloud Computing.
+  * Contact info: johnjoshetta@gmail.com
 
 <!--
 **jjetta/jjetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
